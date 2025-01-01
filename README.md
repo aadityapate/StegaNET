@@ -56,4 +56,3 @@ With the rise of sophisticated cyber threats, traditional encryption methods are
 - Implement additional steganography techniques to enhance message capacity and reduce detectability.
 - Introduce a mobile version for secure communication on-the-go.
 - Explore cloud integration for secure message storage.
-
